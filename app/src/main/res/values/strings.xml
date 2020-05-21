@@ -1,0 +1,37 @@
+<resources>
+    <string name="app_name">Ericsson</string>
+    <string name="nav_description">Beskrivning</string>
+    <string name="nav_web">Hemsida</string>
+    <string name="ericsson">Ericsson</string>
+    <string name="navigation_drawer_open">Öppna meny</string>
+    <string name="navigation_drawer_close">Stäng meny</string>
+    <string name="nav_map">Karta</string>
+    <string name="ericsson_info">Telefonaktiebolaget L M Ericsson är en av världens största
+        tillverkare av utrustning för att bygga nätverk för mobil kommunikation. 2012 var man den
+        största tillverkaren, med en marknadsandel av 38 procent. Det är ett svenskt
+        telekommunikationsföretag med internationell inriktning.
+        Ericsson grundades 1876 av Lars Magnus Ericsson.
+    .\n\nLars Magnus Ericsson började sin bana som arbetare på olika verkstäder, dels i sin
+        hemtrakt, dels i Stockholm. Efter en stipendiefinansierad utlandsvistelse som student
+        satte han den 1 april 1876 upp en verkstad i ett 13 kvadratmeter stort rum i gårdshuset på
+        Drottninggatan 15 i Stockholm för att tillverka matematiska och fysikaliska instrument och
+        dylikt. Detta var samma år som A.G. Bell tog patent på telefonen (som senare visade sig ha
+        uppfunnits av Antonio Meucci flera år tidigare). Redan i slutet av 1876 blir lokalen för
+        liten för Ericsson och hans kompanjon Carl Johan Andersson, som flyttar till Jakobsbergsgatan 23 B.
+        \n\nBara något år senare utnyttjade Ericsson att Bell hade avstått från att göra sitt telefonpatent
+        giltigt för de nordiska länderna, och startade tillverkningen av telefonapparater, vilket
+        skulle bli den huvudsakliga verksamheten. År 1878 lanserades de första telefonerna –
+        tillverkade av honom själv – då 22 stycken så kallade "magnettelefoner med signaltrumpet"
+        levererades för 55 kronor paret. Hans påfallande konstruktiva begåvning imponerade på den
+        tidens fackmän, och apparaterna blev snabbt kända på världsmarknaden.
+        \n\n1884 flyttade tillverkningen till LM Ericssons fabriker, Tulegatan. Vid denna tid fanns vid
+        företaget 38 arbetare, 19 lärlingar, 2 elever och 1 bokhållare. Ett decennium senare hade
+        man köpt upp och bebyggt hela grannkvarteret för den snabbt växande verksamheten.
+        \n\n1884 uppfann Anton Avén och Leonard Lundqvist vid Stockholms Allmänna Telefon AB en telefonlur
+        genom att montera en hörtelefon och en mikrofon från en av den tidens standardtelefoner på
+        ett skaft, och kallade designen för handmikrotelefon. Luren användes av telefonister som
+        behövde en hand fri medan de talade med abonnenterna, istället för en hand för mikrofonen
+        och en för hörtelefonen. Ericsson var tidiga med att inkludera luren i sina produkter,
+        först med bordstelefonen kallad Taxen från 1892.</string>
+    <string name="title_activity_maps">Map</string>
+</resources>
